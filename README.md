@@ -7,6 +7,6 @@ downloader是根据sha256下载样本文件
 
 queryer是根据输入标签/家族名 批量获取sha256用于下载
 
-更多的api编写细节详见：
+# 更多的api编写细节:
 
 https://bazaar.abuse.ch/api/ 和 https://bazaar.abuse.ch/browse/
